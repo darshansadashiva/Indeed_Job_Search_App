@@ -106,5 +106,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Tkinter is used for building the graphical user interface.
 - Thanks to Indeed for providing job listing data.
 ```
-
-In this example, replace `initial_ui.png`, `values_entered.png`, `result_displayed.png`, and `excel_generated.png` with the actual filenames of your images, and make sure they are located in the `images` folder within your repository. If your images are located elsewhere, update the paths accordingly.
