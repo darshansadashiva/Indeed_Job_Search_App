@@ -92,7 +92,9 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 
 ## Author
 
-Darshan Sadashiva
+- **Darshan Sadashiva**
+  - LinkedIn: [Darshan Sadashiva](https://www.linkedin.com/in/darshansadashiva/)
+  - GitHub: [Darshan Sadashiva](https://github.com/darshansadashiva)
 
 ## License
 
