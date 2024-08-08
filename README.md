@@ -9,6 +9,20 @@ Job Viewer is a Python-based desktop application that scrapes job listings from 
 - Displays job title, company, location, and job link in a Treeview.
 - Opens job link in the default web browser when clicked.
 
+## Screenshots
+
+### Initial UI
+![Initial UI](images/initial_ui.png)
+
+### Values Entered
+![Values Entered](images/values_entered.png)
+
+### Result Displayed
+![Result Displayed](images/result_displayed.png)
+
+### Excel Generated
+![Excel Generated](images/excel_generated.png)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -91,4 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Thanks to Indeed for providing job listing data.
 ```
 
-You can copy and paste this `README.md` file into your repository. It should provide clear guidance and essential information for users and contributors.
+In this example, replace `initial_ui.png`, `values_entered.png`, `result_displayed.png`, and `excel_generated.png` with the actual filenames of your images, and make sure they are located in the `images` folder within your repository. If your images are located elsewhere, update the paths accordingly.
