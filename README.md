@@ -12,16 +12,16 @@ Job Viewer is a Python-based desktop application that scrapes job listings from 
 ## Screenshots
 
 ### Initial UI
-![Initial UI](images/initial_ui.png)
+![Initial UI](images/initial_UI.png)
 
 ### Values Entered
-![Values Entered](images/values_entered.png)
+![Values Entered](images/values.png)
 
 ### Result Displayed
-![Result Displayed](images/result_displayed.png)
+![Result Displayed](images/result.png)
 
 ### Excel Generated
-![Excel Generated](images/excel_generated.png)
+![Excel Generated](images/excel.png)
 
 ## Prerequisites
 
